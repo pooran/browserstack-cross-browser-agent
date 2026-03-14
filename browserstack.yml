@@ -1,0 +1,28 @@
+userName: pooranprasadraja_oKsNXk
+accessKey: bjpGPD3dyn9rpp3DiyxY
+
+platforms:
+  - os: Windows
+    osVersion: 11
+    browserName: Chrome
+    browserVersion: latest
+  - os: OS X
+    osVersion: Sonoma
+    browserName: Safari
+    browserVersion: latest
+  - deviceName: iPhone 15
+    osVersion: 17
+    browserName: Safari
+  - deviceName: Samsung Galaxy S24
+    osVersion: 14.0
+    browserName: Chrome
+
+projectName: BrowserStack Cross-Browser Agent
+buildName: Fashion Stack Login Test
+sessionName: Login Scenario Cross-Browser
+
+aiAuthoring: true
+
+browserstackLocal: false
+debug: true
+networkLogs: true
